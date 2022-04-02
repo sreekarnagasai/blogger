@@ -9,7 +9,8 @@ DeleteView
 )
 from .models import Post
 # Create your views here.
-
+def views(req):
+     context = new Vue
 
 
 
